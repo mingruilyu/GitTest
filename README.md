@@ -1,1 +1,1 @@
-another user's change
+This is the new local master change
